@@ -13,7 +13,7 @@ Learn more about Encoteki visit:
 
 [🛜 Website](https://encoteki.com)
 
-# The Satwas Band NFT at HAQQ Testnet Minting DApp 🔥
+# Encoteki (TSB) NFT at HAQQ Testnet Minting DApp 🔥
 
 Encoteki is an innovative project dedicated to creating a self-sustainable environment and community through the power of technology and NFTs. Our mission is to conserve endangered animals in Indonesia, support local communities, and offer tangible benefits to our project participants.
 
