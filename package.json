@@ -1,0 +1,39 @@
+{
+  "name": "TSB_Minting_DApp",
+  "version": "0.0.1",
+  "description": "Connect your wallet and start minting The Satwas Band NFT on HAQQ Testnet.",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-scripts": "^5.0.1",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "styled-components": "^5.3.0",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.5.1",
+    "web3-eth-contract": "^1.5.2"
+  },
+  "author": "Encoteki",
+  "license": "MIT",
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

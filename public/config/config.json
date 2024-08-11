@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x9e93A18CAcBC91d073d37F4AA0b47EF1be25e591",
+  "SCAN_LINK": "https://explorer.testedge2.haqq.network/address/0x9e93A18CAcBC91d073d37F4AA0b47EF1be25e591",
+  "NETWORK": {
+    "NAME": "HAQQ Testnet",
+    "SYMBOL": "ISLMT",
+    "ID": 54211
+  },
+  "NFT_NAME": "TheSatwasBandDevHAQQ",
+  "SYMBOL": "TSBDHAQQ",
+  "MAX_SUPPLY": 36,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "SHOW_BACKGROUND": true
+}
